@@ -42,15 +42,16 @@ body{
 }
 .container-cadastro{
     display: flex;
+    background-image: url('curva.png');
     background-repeat: no-repeat;
     background-size: cover;
+    overflow: hidden;
     width: 100%;
     min-height: 100vh;
     align-items: center;
     justify-content: center;
 }
 .card-cadastro, .card-cadastro-img{
-    background-image: url('curva.png');
     width: 50%;
     display: flex;
     align-items: center;
