@@ -42,7 +42,7 @@ body{
 }
 .container-cadastro{
     display: flex;
-    background-image: url('curva.png');
+    background-image: url('curva.png')
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
